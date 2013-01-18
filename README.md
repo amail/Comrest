@@ -15,7 +15,7 @@ Say hello to Comrest! A RESTful library for PHP that makes life easier. With jus
 
 Easily....
 
-  * Add routes. Map routes to Resources. Use namespacing and stop repeating yourself!
+  * Add routes. Map routes to resources. Use namespacing and stop repeating yourself!
   * Add filters. Format, log or apply custom authentication schemes to routes. Apply filters to namespaces!
-  * Map parameters from routes and easily access data from the HTTP-request into your resource.
+  * Map parameters from routes and easily pass data from the HTTP-request to your resource.
   * Create unit tests.
