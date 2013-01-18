@@ -5,7 +5,7 @@ RESTful services for PHP. Used in various Web API's at Comfirm.
 
 ##### Background
 
-At Comfirm we build a lot of WEB API's.
+At Comfirm we build a lot of Web API's.
 
 For high-performance (high throughput/low memory/low latency) we've built a custom HTTP/API-server in C.
 This is very specific and performs great for it's mission critical purpose, but it's a pain for productivity.
