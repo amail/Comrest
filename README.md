@@ -13,7 +13,7 @@ This is very specific and performs great for it's mission critical purpose, but 
 So for day-to-day development and for non mission critical API's, we needed something else...
 Say hello to Comrest! A RESTful library for PHP that makes life easier. With just a few lines, it does what you want it to do!
 
-Easily....
+##### Features
 
   * Add routes. Map routes to resources. Use namespacing and stop repeating yourself!
   * Add filters. Format, log or apply custom authentication schemes to routes. Apply filters to namespaces!
