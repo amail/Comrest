@@ -11,8 +11,11 @@ For high-performance (high throughput/low memory/low latency) we've built a cust
 This is very specific and performs great for it's mission critical purpose, but it's a pain for productivity.
 
 So for day-to-day development and for non mission critical API's, we needed something else...
+Say hello to Comrest! A RESTful library for PHP that makes life easier. With just a few lines, it does what you want it to do!
 
-Say hello to Comrest! A RESTful library for PHP that makes life easier.
-With just a few lines, it does what you want it to do!
+Easily....
 
-Easily create routes, apply filters, and get your work done!
+  * Add routes. Map routes to Resources. Use namespacing and stop repeating yourself!
+  * Add filters. Format, log or apply custom authentication schemes to routes. Apply filters to namespaces!
+  * Map parameters from routes and easily access data from the HTTP-request into your resource.
+  * Create unit tests.
