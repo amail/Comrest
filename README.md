@@ -15,4 +15,4 @@ So for day-to-day development and for non mission critical API's, we needed some
 Say hello to Comrest! A RESTful library for PHP that makes life easier.
 With just a few lines, it does what you want it to do!
 
-Easily create route namespaces, apply filters, and get your work done!
+Easily create routes with using namespaces, apply filters, and get your work done!
